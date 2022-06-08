@@ -28,4 +28,8 @@
   
   ![Snake animation](https://github.com/wandyalmeida/wandyalmeida/blob/output/github-contribution-grid-snake.svg)
   
+  
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=wandyalmeida&label=Profile%20views&color=f22558&style=flat" alt="wanyalmeida" /> </p>
+
+  
 </div>
