@@ -1,5 +1,5 @@
 ### Hi there I am Wandwilson Almeida, I am a Computing & Information Technology Student. 👋
-<a href="https:wandyalmeida.github.io">Portfolio</a>
+<a href="wandyalmeida.github.io">Portfolio</a>
 
 ##
 
