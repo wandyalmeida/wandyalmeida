@@ -27,7 +27,7 @@
 <a href="https://wa.me/3530833478906" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
   
   
-  ![Snake animation](https://github.com/wandyalmeida/wandyalmeida/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/wandyalmeida/wandyalmeida/blob/output/github-snake.svg)
   
   
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=wandyalmeida&label=Profile%20views&color=f22558&style=flat" alt="wanyalmeida" /> </p>
