@@ -2,11 +2,18 @@
 [**Portfolio**](https://wandyalmeida.github.io/)
 ##
 
-<div align="center">
+<!-- <div align="center">
   <a href="https://github.com/wandyalmeida">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wandyalmeida&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wandyalmeida&layout=compact&langs_count=7&theme=blue-green"/>
+</div> -->
+<div align="center">
+  <a href="https://github.com/wandyalmeida">
+  <img src="https://streak-stats.demolab.com?user=wandyalmeida&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="180em" alt="streak graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=wandyalmeida&radius=16&theme=react&area=true&order=5" height="180em" alt="activity-graph graph"  />
 </div>
+
+###
  
 ##
   
