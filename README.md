@@ -17,7 +17,7 @@
  
 ##
   
-<table border="0" cellspacing="0" cellpadding="0">
+<!--<table border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td><img alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></td>
     <td><img alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></td>
@@ -25,7 +25,12 @@
     <td><img alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></td>
     <td><img alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"></td>
   </tr>
-</table>
+</table> -->
+
+
+![My Skills](https://skillicons.dev/icons?i=js,html,css,python,java,docker,flask,kubernetes,linux,postman,postgres,django,githubactions,mysql,selenium)
+
+
   
   ##
   
